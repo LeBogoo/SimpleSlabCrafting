@@ -1,0 +1,8 @@
+name: SimpleSlabCrafting
+version: '1.0-SNAPSHOT'
+main: me.lebogo.simpleSlabCrafting.SimpleSlabCrafting
+api-version: '1.20'
+prefix: SSB
+authors: [ LeBogo ]
+description: This plugin adds crafting recipes to craft a block from its slab form.
+website: https://lebogo.me
